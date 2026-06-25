@@ -42,7 +42,7 @@ CGPA: 8.04 (2025)
 
 Add a screenshot of your portfolio below:
 
-![Portfolio Screenshot](./images/portfolio-preview.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35d30ab1-93b8-42f8-8ba8-e6b53381589c" />
 
 
 ## 🔗 Live Demo
@@ -51,26 +51,6 @@ Visit My Portfolio:
 
 https://cheran0011.github.io/cheran_portfolio/
 
-
-## 📬 Contact
-
-* GitHub: https://github.com/Cheran0011
-* LinkedIn: Add your LinkedIn profile link
-* Email: Add your email address
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-⭐ If you like this project, feel free to star the repository.
-
-
-## 🔗 Live Demo
-
-Visit My Portfolio:
-https://your-portfolio-link-here
 
 ## 📬 Contact
 
