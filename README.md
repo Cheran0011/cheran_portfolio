@@ -1,46 +1,87 @@
 # 🌐 Personal Portfolio Website
 
-This is my personal portfolio website showcasing my skills, projects, education, and contact information. The portfolio is designed to highlight my journey as a Java Backend Developer and demonstrate my web development skills.
+Welcome to my personal portfolio website! This project showcases my skills, projects, education, and career journey as an aspiring Java Backend Developer.
 
 ## 🚀 Features
 
-- Responsive and modern design
-- About Me section
-- Technical Skills showcase
-- Projects section with GitHub links
-- Education details
-- Contact form integration
-- Social media and GitHub profile links
+* Responsive and modern user interface
+* About Me section
+* Technical Skills showcase
+* Featured Projects section
+* Education details
+* Contact section
+* Social media and GitHub profile links
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- Font Awesome
+* HTML5
+* CSS3
+* Font Awesome
 
-## 📂 Projects Included
+## 📂 Projects
 
 ### 📚 Student Management System
-Developed using Java, Spring Boot, Spring Data JPA, MySQL, and REST APIs with complete CRUD functionality for managing student records efficiently.
 
-### 💡 Smart Street Lighting using ML
-Machine Learning and Image Processing based project that detects vehicles and pedestrians to automatically control street lights, reducing electricity consumption and improving energy efficiency.
+A full-stack Java application developed using Java, Spring Boot, Spring Data JPA, MySQL, and REST APIs. The system provides complete CRUD operations for efficient student record management.
+
+### 💡 Smart Street Lighting using Machine Learning
+
+A Machine Learning and Image Processing project that automatically controls street lights by detecting vehicles and pedestrians, helping reduce energy consumption and improve efficiency.
 
 ### ✅ To-Do Application
-A task management application that allows users to create, update, delete, and organize daily tasks with a simple and user-friendly interface.
+
+A task management application that enables users to create, update, delete, and organize daily tasks through a simple and intuitive interface.
 
 ## 🎓 Education
 
-**B.E. Computer Science and Engineering**  
-Gnanamani College of Technology  
+**Bachelor of Engineering (B.E.) – Computer Science and Engineering**
+Gnanamani College of Technology
 CGPA: 8.04 (2025)
 
 ## 📸 Portfolio Preview
 
-Add a screenshot of your portfolio here:
+Add a screenshot of your portfolio below:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08a04761-e7d8-4b51-a20d-9f601fb15e1c" />
-
-
-```md
 ![Portfolio Screenshot](./images/portfolio-preview.png)
+
+
+## 🔗 Live Demo
+
+Visit My Portfolio:
+
+https://cheran0011.github.io/cheran_portfolio/
+
+
+## 📬 Contact
+
+* GitHub: https://github.com/Cheran0011
+* LinkedIn: Add your LinkedIn profile link
+* Email: Add your email address
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+⭐ If you like this project, feel free to star the repository.
+
+
+## 🔗 Live Demo
+
+Visit My Portfolio:
+https://your-portfolio-link-here
+
+## 📬 Contact
+
+* GitHub: https://github.com/Cheran0011
+* LinkedIn: linkedin.com/in/cheran-g-30b924269
+* Email: cheranguna@gmail.com
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+⭐ If you like this project, feel free to star the repository.
