@@ -42,7 +42,7 @@ CGPA: 8.04 (2025)
 
 Add a screenshot of your portfolio below:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e041413b-5487-411f-8453-7d7509549fbe" />
+<img width="1920" height="810" alt="myPortfolio" src="https://github.com/user-attachments/assets/e7abab13-3685-4c5e-8f22-5843faa62896" />
 
 
 ## 🔗 Live Demo
