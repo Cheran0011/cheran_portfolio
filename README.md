@@ -40,7 +40,8 @@ CGPA: 8.04 (2025)
 
 ## 📸 Portfolio Preview
 
-<img width="1920" height="810" alt="myPortfolio" src="https://github.com/user-attachments/assets/e7abab13-3685-4c5e-8f22-5843faa62896" />
+<img width="1891" height="815" alt="port" src="https://github.com/user-attachments/assets/97a9b7c6-4651-49be-92a8-26ded103f460" />
+
 
 ## 🔗 Live Demo
 
