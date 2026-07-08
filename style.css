@@ -12,7 +12,8 @@
     font-family:'Poppins',sans-serif;
 }
 
-html{
+html
+{
     scroll-behavior:smooth;
 }
 
@@ -155,7 +156,7 @@ main{
 
     border-right:3px solid #38bdf8;
 
-    width:9ch;
+    width:6ch;
 
     animation:typing 3s steps(9) infinite alternate;
 }
@@ -900,4 +901,8 @@ main{
 .contact form{
 
     animation:fadeUp .8s ease;
+}
+
+nav ul li a.active{
+    color:#38bdf8;
 }
