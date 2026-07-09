@@ -47,7 +47,7 @@ CGPA: 8.04 (2025)
 
 Visit My Portfolio:
 
-https://cheran0011.github.io/cheran_portfolio/
+ https://cheran0011.github.io/cheran_portfolio/
 
 
 ## 📬 Contact
